@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    tools:context=".fragments.AppInfoFragment">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/fon2" />
+
+    <TextView
+        android:layout_margin="20dp"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bu_ilova_ro_ziqulov_bekzod_tomonidan_ishlab_chiqildi_va_bu_ilova_oz_ichiga_yo_l_harakat_qoidalari_haqida_ma_lumot_topadi"
+        />
+</LinearLayout>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Yo\'lHarakatQoidalari</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yo_l_belgisining_nomi" />
+    <string name="yo_l_belgisining_to_liq_tarifi" />
+    <string name="saqlash" />
+    <string name="saqlash1">Saqlash</string>
+    <string name="to_liq_ma_lumotni_kiriting">To\'liq ma\'lumotni kiriting</string>
+    <string name="qoida_nomini_kiriting">Qoida Nomini Kiriting</string>
+    <string name="rasm_tanlash_uchun_ramka_ustiga_bosing">Rasm tanlash uchun ramka ustiga bosing</string>
+    <string name="o_chirish">O\'chirish</string>
+    <string name="o_zgartirish">O\'zgartirish</string>
+    <string name="yo_l_qoidalari_to_g_risida_qonun">Yo\'l Qoidalari to\'g\'risida qonun</string>
+    <string name="yo_l_qoidalari_haqida">Yo\'l qoidalari haqida</string>
+    <string name="bu_ilova_ro_ziqulov_bekzod_tomonidan_ishlab_chiqildi_va_bu_ilova_oz_ichiga_yo_l_harakat_qoidalari_haqida_ma_lumot_topadi">Bu ilova Ro\'ziqulov Bekzod tomonidan ishlab chiqildi va bu ilova oz ichiga Yo\'l harakat qoidalari haqida ma\'lumot topadi</string>
+    <string name="saqlashq">Saqlash</string>
+    <string name="dfa">yo_l_belgisining_to_liq_tarifi</string>
+    <string name="qoshimcha_malumot_kiriting">Qoshimcha malumot kiriting</string>
+    <string name="belgi_nomini_kiriting">Belgi nomini kiriting</string>
+</resources>
